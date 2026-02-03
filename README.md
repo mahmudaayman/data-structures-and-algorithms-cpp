@@ -41,8 +41,11 @@ git clone https://github.com/your-username/data-structures-and-algorithms-cpp.gi
 ## Future Improvements
 
 Add trees and graphs
+
 Add more sorting algorithms
+
 Add time complexity analysis
 
 Author
+
 Mahmuda Ayman
